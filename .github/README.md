@@ -182,7 +182,7 @@ Lists listening ports for given service and protocol via `netstat`
 **Returns: `string`**, IP address
 
 
-**Throws** `Parameter_Error: ipv4_range_from_address not provided an IP address`, when first parameter is not defined
+**Throws** `Parameter_Error: range_ipv4_address not provided an IP address`, when first parameter is not defined
 
 
 **Example:** as a string
